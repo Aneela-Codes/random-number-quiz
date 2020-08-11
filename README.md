@@ -1,1 +1,1 @@
-link: https://aneela-codes.github.io/randome-number-quiz/
+link: https://aneela-codes.github.io/random-number-quiz/
